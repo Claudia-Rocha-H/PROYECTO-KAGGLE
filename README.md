@@ -1,16 +1,16 @@
-# PROYECTO-KAGGLE
-# ---------------------------------
+# Proyecto Kaggle
+---
 
-# Juan Andrés Toro Acevedo
-# C.C 1007528893
-# Bioingeniería
-# ---------------------------------
+##  Integrantes del Grupo
 
-# Eliana María Brand Agudelo
-# C.C 1000569835
-# Ingeniería de sistemas
-# ---------------------------------
+| Nombre | Cédula | Programa Académico |
+|:--|:--|:--|
+| **Juan Andrés Toro Acevedo** | 1007528893 | Bioingeniería |
+| **Eliana María Brand Agudelo** | 1000569835 | Ingeniería de Sistemas |
+| **Claudia María Rocha Hernández** | 1143463302 | Ingeniería de Sistemas |
 
-# Claudia María Rocha Hernández
-# C.C 1143463302
-# Ingeniería de sistemas
+---
+##  Video
+
+📎 **Entrega 2 en YouTube:**  
+▶️ [https://www.youtube.com/watch?v=wg6kR-X39es](https://www.youtube.com/watch?v=wg6kR-X39es)
